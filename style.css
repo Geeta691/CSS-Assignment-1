@@ -1,0 +1,49 @@
+h2{
+    color: red;
+}
+h3{
+    color: green;
+    font-style: italic;
+}
+ol{
+    font-size: small;
+}
+.chit1{
+    text-decoration: line-through;
+    
+}
+.chit2{
+    background-color: yellow;
+}
+.chit3{
+    text-decoration-line: underline;
+}
+ul{
+
+color: brown;
+letter-spacing: 3px;
+font-size: small;
+
+}
+.chit4{
+    background-color: yellow;
+
+}
+p{
+    color: brown;
+    font-size: small;
+}
+small{
+    font-size: xx-small;
+    color: rgb(235, 192, 192);
+    
+}
+i{
+    color: brown;
+    font-size: small;
+}
+a{
+    color: brown;
+    font-size: small;
+    background-color: yellow;
+}
